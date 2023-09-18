@@ -1,2 +1,1 @@
-# react_user_app
-一个简单的用户系统
+一个简单的 依赖 firebase 的用户系统
